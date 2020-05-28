@@ -1,5 +1,11 @@
 # ignore all logs
 *.log
 
-#ignore node modules
-node_modules/
+# dependencies
+/node_modules
+
+# production
+/build
+
+# dist folder
+/dist
