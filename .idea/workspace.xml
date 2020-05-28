@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35606e78-7546-45fc-bc22-5ba777ce13b7" name="Default Changelist" comment="" />
+    <list default="true" id="35606e78-7546-45fc-bc22-5ba777ce13b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,7 +32,7 @@
         <counts>
           <entry key="babelrc" value="3" />
           <entry key="css" value="3" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="html" value="5" />
           <entry key="js" value="42" />
           <entry key="json" value="10" />
@@ -44,7 +47,7 @@
           <entry key="HTML" value="5" />
           <entry key="JSON" value="13" />
           <entry key="JavaScript" value="42" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="6" />
           <entry key="SVG" value="1" />
           <entry key="yarn.lock" value="1" />
@@ -53,6 +56,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="babelrc" value="2" />
+          <entry key="gitignore" value="39" />
           <entry key="html" value="6" />
           <entry key="js" value="2499" />
           <entry key="json" value="3" />
@@ -64,13 +68,24 @@
           <entry key="HTML" value="6" />
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="2499" />
+          <entry key="PLAIN_TEXT" value="39" />
           <entry key="SCSS" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/js/components/lazy.js" />
         <option value="$PROJECT_DIR$/src/js/components/common/Loading.js" />
         <option value="$PROJECT_DIR$/src/js/components/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -192,12 +208,12 @@
       <workItem from="1590574103244" duration="8636000" />
       <workItem from="1590589122469" duration="11896000" />
       <workItem from="1590651140715" duration="3627000" />
-      <workItem from="1590665375391" duration="3534000" />
+      <workItem from="1590665375391" duration="3957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37513000" />
+    <option name="totallyTimeSpent" value="37936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,8 +226,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18504366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18504366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
@@ -226,7 +243,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32901832" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20730397" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20730397" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -373,6 +390,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
