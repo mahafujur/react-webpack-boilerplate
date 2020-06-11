@@ -9,3 +9,6 @@
 
 # dist folder
 /dist
+
+#idea dependency removed
+.idea
